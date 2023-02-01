@@ -1,10 +1,10 @@
 # Alien vs. Zombie
 
-Please introduce the game here.
+This is a text-based, simplified version of the Alien Path game. Players need to defeat all the zombies that apear on the game board. During the game, the Alien can obtain specific helps from the objects in the game in order to defeat the Zombies. 
 
-You may add one signature screenshot of your program here or above the title. Check out [this tutorial](https://www.digitalocean.com/community/tutorials/markdown-markdown-images) to learn how to do it.
+![ALien vs Zombie](Screenshot%202023-02-01%20155628.jpg)
 
-Please provide the YouTube link to your [Video Demo](https://youtube.com).
+This is a YouTube link that will bring you to the video demo
 
 ## Compilation Instructions
 
